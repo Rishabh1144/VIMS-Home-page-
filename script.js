@@ -39,7 +39,7 @@ slideImage = () =>{
 
 setInterval(() =>{
     next()
-}, 6000);
+}, 7000);
 
 //placement crousel//
 
